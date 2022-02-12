@@ -1,0 +1,46 @@
+-----2022/02/11-----
+
+Successfully added a rested area at Malaka'jin!
+	Developer Note:
+		This took me quite a long time to figure out. Turns out AreaTable.dbc is stupid and needs to be
+			ordered by MapID. Meaning you cannot place a new entry at the bottom. This makes it incredibly
+			annoying to modify.
+
+Modified stats on the ZG Paladin set.
+
+Changed the Paladin ZG neck effect to lower the cooldown of holy shock by 0.5 seconds
+
+Added a vendor Jin'dosh the Broker (190128) that sells ZG set items. Removed quests that used to do this.
+	Only Paladin sets for now.
+
+Added reputation and level requirements to Paladin ZG items.
+	Other classes to come later.
+
+The Punctured Voodoo Dolls that create the trinkets for classes now create a token used
+	to buy the neck from the vendor instead.
+
+-----2022/02/10-----
+
+Placement of some creatures done manually.
+
+Fixed various DB Error log issues
+
+Added additional text to the quest Lost Feather (30045) to help lead the player to the item
+
+Readded creature equipment to one NPC. More to come later.
+
+Blocked off Heroic: Deadmines.
+
+-----2022/02/09-----
+
+Gameobjects, creatures, and quests transferred
+
+Vendor items transferred
+
+Creature placement NOT transferred
+
+-----2022/02/08-----
+
+Initial transfer to AzerothCore rev. 5606e297a6e8 2022-02-08 17:52:32 +0000 (master branch)
+
+Characters, guilds, and items transferred.
