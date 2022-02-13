@@ -1,3 +1,10 @@
+-----2022/02/13-----
+
+Reitemized ZG class sets.
+
+All ZG class sets are now on a vendor.
+	Except the custom neck pieces for paladin. Need to add a way to exchange them.
+
 -----2022/02/11-----
 
 Successfully added a rested area at Malaka'jin!
