@@ -1,3 +1,54 @@
+-----2022/07/16-----
+
+Arcane Talents Arcane Stability and Spell Impact now affect Spiritbolt.
+
+Readded custom recipies to the drop table.
+
+Tuned mobs and bosses in Scholomance.
+
+Fixed a typo in Glyph of Mana Shield (90176)
+
+Buffed item Lapidis Tankard of Tidesippe (4696)
+
+-----2022/06/19-----
+
+Buffed many of the Hive mobs in Silithus.
+
+-----2022/06/19-----
+
+Items Sanctified Orb (20512), Chivalrous Signet (20505), and Lightforged Blade (20504) now have a level
+ requirement of 47, class requirement of Paladin, and are no longer BoP.
+ 
+Buffed Lightforged Blade (20504) | Now has a dps of 46.4 was 44.8. Now has 0 spell power was 13. Has 6 armor pen was 0.
+	+15 fire, frost, and shadow resist. Was +10. Has +39 attack power vs undead and demons.
+Buffed Chivalrous Signet (20505) | Now has +9 spell power but no strength. +14 int was +7. +30 damage to undead and demons.
+
+-----2022/03/25-----
+
+Partially implemented Ashbringer questline.
+
+-----2022/03/17-----
+
+Made various Scarlet mobs in Hearthglen Elites.
+
+-----2022/02/20-----
+
+Nerfed npc Scarlet Executioner (1841) | 1x damage modifier was 4x, 2x health modifier was 3x, 3x exp modifier was 1x
+
+Reitemized Girdle of Uther (13077) | 0 spirit was +9, +14 strength was +9, +12 intellect was +9, and +12 crit rating was +0
+
+The AH bot no longer sells gems.
+
+-----2022/02/16-----
+
+Progress remaking Heroic: Deadmines
+	Added all the NPCs.
+	Added Rhahk'Zor's SmartAI scripts.
+
+-----2022/02/15-----
+
+Buffed item Ironforge Memorial Ring (4535) | Now rare quality and has +9 stam, +6 spirit, and +3 hp5. Was +5 stam, +4 spirit, and 0 hp5
+
 -----2022/02/13-----
 
 Reitemized ZG class sets.
