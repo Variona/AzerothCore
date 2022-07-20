@@ -1,3 +1,52 @@
+-----2022/07/20-----
+
+Added 6 new buffs to buy.
+	Rogue:
+	Technique: Enhanced Slice and Dice | Requires level 10. Increases the haste effect of your Slice and Dice ability by 5%.
+	Technique: Enhanced Sprint | Requires level 10. Increases the duration of your Sprint ability by 2 sec.
+	Technique: Enhanced Sinister Strike | Requires level 10. Increases the damage dealt by Sinister Strike by 5%.
+	Technique: Enhanced Ambush | Requires level 20. Increases the critical strike damage of your Ambush ability by 20%.
+	Technique: Enhanced Kick | Requires level 20. Reduces the Energy cost of your Kick by 5.
+	Technique: Enhanced Eviscerate | Requires level 20. Increases the damage dealt by your Eviscerate by 10%.
+	Technique: Enhanced Rupture | Requires level 30. Increases the damage dealt by your Rupture by 10%.
+	Technique: Enhanced Garrote | Requires level 30. Increases the total damage of Garrote by 20%.
+	Technique: Enhanced Kidney Shot | Requires level 40. Reduces the energy cost of your Kidney Shot by 5.
+	
+	Paladin:
+	Libram: Enhanced Consecration | Requires level 20. Increases the damage of your Consecration ability by 10%.
+	Libram: Enhanced Exorcism | Requires level 20. Increases damage done by Exorcism by 10%.
+	Libram: Enhanced Blessing of Wisdom | Requires level 40. Increases the effect of your Blessing of Wisdom spell by 15%.
+	
+	Mage:
+	Tome: Enhanced Fireball | Requires level 10. Increases the damage dealt by your Fireball by 10%.
+	Tome: Enhanced Blizzard | Requires level 20. Increases the damage dealt by your Blizzard by 10%.
+	Tome: Enhanced Fire Blast | Requires level 20. Increases the damage dealt by your Fire Blast by 10%.
+	
+Added an ingame command that resets your perks and refunds you the currency.
+
+Made the various currencies used to buy perks now appear in the currency tab under their own category.
+
+-----2022/07/19-----
+
+Added several new buffs to buy from Clarrisa, Alivera Sunblossom, and Winkey.
+	Paladin:
+	Libram: Timely Lay on Hands | Requires level 10. Reduces the cooldown of Lay on Hands by 1 minute.
+	Libram: Enhanced Blessing of Might | Requires level 10 and Paladin. Increases the attack power bonus of your Blessing of Might by 10%.
+	Libram: Enhanced Devotion Aura | Requires level 10. Increases the armor bonus of your Devotion Aura by 10%.
+	Libram: Enhanced Crusader Strike | Requires level 20. Increases the damage caused by Crusader Strike by 5%.
+	Libram: Enhanced Blessing of Kings | Requires level 20. Increases the effect of your Blessing of Kings by 1.
+	Libram: Enhanced Seal of Command | Requires level 30. Increases the damage caused by Seal of Command by 10%.
+	
+	Mage:
+	Tome: Enhanced Arcane Intellect | Requires level 10. Increases the amount of intellect your Arcane Intellect gives by 5%.
+	Tome: Enhanced Frost Nova | Requires level 10. Increases the duration that Frost Nova freezes targets by 2 seconds.
+	Tome: Enhanced Blink | Requires level 20. Increases the distance you travel with the Blink spell by 2 yards.
+	Tome: Timely Ice Block | Requires level 30. The cooldown for your Ice Block spell is reduced by 20 seconds.
+	Tome: Enhanced Mana Shield | Requires level 30. Increases the damage absorbed by your Mana Shield by 10%.
+	Tome: Enhanced Spirit Bolt | Requires level 40. Increases the damage caused by Spirit Bolt by 5%.
+	
+Removed the reagents that Charys Yserian (1307) used to sell.
+
 -----2022/07/16-----
 
 Arcane Talents Arcane Stability and Spell Impact now affect Spiritbolt.
