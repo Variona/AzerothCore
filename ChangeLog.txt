@@ -1,6 +1,27 @@
+-----2022/11/11-----
+
+Buffed spell Firey Aura (23266) | Now deals 53 damage. Was 13.
+
+-----2022/08/11-----
+
+Warrior Battle Shouts now increase in duration every rank. Up to 1 hour at rank 9.
+
+-----2022/08/06-----
+
+Reimplemented the custom graveyards for Fray Island, Blackrock Mountain and instances, and Zul'gurub.
+
+Added a script to apply a debuff to dungeon creatures.
+	Currently affects Blackrock Spire and Blackrock Depths.
+
+-----2022/08/04-----
+
+Buffed quest rewards from Hogger.
+
+Buffed "Rodentia" items.
+
 -----2022/07/20-----
 
-Added 6 new buffs to buy.
+Added new buffs to buy.
 	Rogue:
 	Technique: Enhanced Slice and Dice | Requires level 10. Increases the haste effect of your Slice and Dice ability by 5%.
 	Technique: Enhanced Sprint | Requires level 10. Increases the duration of your Sprint ability by 2 sec.
@@ -22,13 +43,13 @@ Added 6 new buffs to buy.
 	Tome: Enhanced Blizzard | Requires level 20. Increases the damage dealt by your Blizzard by 10%.
 	Tome: Enhanced Fire Blast | Requires level 20. Increases the damage dealt by your Fire Blast by 10%.
 	
-Added an ingame command that resets your perks and refunds you the currency.
+Added an ingame command that resets your perks and refunds you the currency. ("-Reset perks")
 
 Made the various currencies used to buy perks now appear in the currency tab under their own category.
 
 -----2022/07/19-----
 
-Added several new buffs to buy from Clarrisa, Alivera Sunblossom, and Winkey.
+Added several new buffs to buy from Clarrisa Yserian, Alivera Sunblossom, and Winkey.
 	Paladin:
 	Libram: Timely Lay on Hands | Requires level 10. Reduces the cooldown of Lay on Hands by 1 minute.
 	Libram: Enhanced Blessing of Might | Requires level 10 and Paladin. Increases the attack power bonus of your Blessing of Might by 10%.
@@ -59,7 +80,7 @@ Fixed a typo in Glyph of Mana Shield (90176)
 
 Buffed item Lapidis Tankard of Tidesippe (4696)
 
------2022/06/19-----
+-----2022/06/20-----
 
 Buffed many of the Hive mobs in Silithus.
 
