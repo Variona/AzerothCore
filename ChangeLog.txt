@@ -1,3 +1,7 @@
+-----2023/01/19-----
+
+Added a hidden teleport network.
+
 -----2022/11/11-----
 
 Buffed spell Firey Aura (23266) | Now deals 53 damage. Was 13.
