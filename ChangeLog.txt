@@ -1,3 +1,7 @@
+-----2023/02/01-----
+
+Buffed Venomous Strike (90030) | Dealt 15 damage per stack, now deals 20.
+
 -----2023/01/19-----
 
 Added a hidden teleport network.
