@@ -1,3 +1,29 @@
+-----2023/03/09-----
+
+Fixed the Heroic versions of Defias Miner, Defias Strip Miner, Defias Overseer, Goblin Woodcarver, and Defias Evoker SAI.
+
+Added new abilities to various Heroic Deadmines mobs.
+
+Fixed Heroic Miner Johnson SAI and added new abilities.
+
+-----2023/03/08-----
+
+Fixed Ret tier 1 set to require Paladin.
+
+Added extra mechanics to Heroic Rhahk'zor and Sneed.
+
+Fixed Heroic Defias Wizard & Watchman SAI.
+
+Continued work on reitemizing dungeon sets 1 and 2.
+
+-----2023/03/07-----
+
+Reworked many dungeon set 1 and 2 set bonuses.
+
+-----2023/02/04-----
+
+Buffed Iceblade Hacker (13952) | 67 - 136 physical / 10 - 20 frost damage and 6 stamina. Was 57 - 106 / 1 - 5.
+
 -----2023/02/01-----
 
 Buffed Venomous Strike (90030) | Dealt 15 damage per stack, now deals 20.
