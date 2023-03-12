@@ -1,3 +1,9 @@
+-----2023/03/11-----
+
+Added Smart AI to Heroic Deadmines: Goblin Engineer, Goblin Craftsman, Remote-Controlled Golem, and Explosive Sheep.
+
+Added new spells and mechanics to the Goblin mobs inside Gilnid's room on Heroic difficulty.
+
 -----2023/03/09-----
 
 Fixed the Heroic versions of Defias Miner, Defias Strip Miner, Defias Overseer, Goblin Woodcarver, and Defias Evoker SAI.
