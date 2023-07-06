@@ -1,3 +1,11 @@
+-----2023/07/01-----
+
+Added new Graveyard for the Boulderslide Ravine & Cave in Stonetalon Mountains.
+
+Readded Eric Kalid & his Initiates along side adding brand new abilities to them.
+
+Added several new spells which are used by the previously mentioned mobs.
+
 -----2023/03/15-----
 
 Added new mechanics to Heroic Gilnid.
