@@ -1,3 +1,29 @@
+-----2023/07/10-----
+
+Added spells and abilities to the following npcs:
+	Defias Blackguard
+	Defias Pirate
+	Defias Squallshaper
+	Goblin Shipbuilder
+	Cael Deacon
+	Zal'hakkar
+	
+Buffed the following items:
+	Mugthol's Helm | Added 10 crit rating
+	Imperial Plate Leggings | Lower required level and is now rare
+	Imperial Plate Chest | Lower required level and is now rare
+	Imperial Plate Boots | Lower required level and is now rare
+	
+Sunmotes are now BoP.
+
+Updated a few AH bot settings to be more restrictive towards trade goods.
+
+Nerfed the damage and knockback effect of Defias Taskmaster Knock Away. Also reduced its frequency.
+
+Reduced the health of Defias Taskmaster by 10%.
+
+Fixed an SAI error with Gilnid.
+
 -----2023/07/01-----
 
 Added new Graveyard for the Boulderslide Ravine & Cave in Stonetalon Mountains.
