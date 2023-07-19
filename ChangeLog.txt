@@ -1,3 +1,41 @@
+-----2023/07/18-----
+
+Buffed items:
+	Blackhand Doomsaw | Increased proc rate and damage of proc.
+	Arcanite Champion | Increased proc rate, health and strength gained from proc.
+	Demonshear | Increased proc rate, inital damage, and dot.
+	Buzz Saw (Heroic) | Now has attack power and spirit in addition to its prior stats.
+	Gold-flecked Gloves (Heroic) | Now has spirit in addition to its prior stats.
+	Taskmaster Axe (Heroic) | Now has attack power and spirit in addition to its prior stats.
+	
+	
+Reitemized:
+	Rhahk'Zor's Hammer (Heroic) | Now has a mixture of stats not just strength
+	Rockslicer (Heroic) | Now has a mixture of stats not just stamina.
+	Gold-plated Buckler (Heroic) | Now has a mixture of stats not just stamina.
+	Miner's Cape (Heroic) | Now has a mixture of stats not just stamina.
+	Buzzer Blade (Heroic) | Now has a mixture of stats not just crit.
+	
+
+New items:
+	Rhahk'Zor's Bracelet | Agi dps neck
+	Warm Boots | Cloth caster boots
+	Mercenary Cuffs | Agi wrists
+	Ogre Chainmail | Mail agi chest
+	Miner Union's Seal | Caster ring
+	Union's Blade | Caster sword
+	Miner's Pauldrons | Str shoulders
+	Remote Controlled Saw | On use damage trinket
+	Sneed's Firestick | Gun
+	Plated Leggings | Plate tank legs
+	Sneed's Eyepatch | leather agi helm
+	Comfy Scaled Kicks | Mail agi boots
+	Mighty Cape | Strength cape
+	
+Fixed a typo in quest Stratholme (30053)
+
+Updated AtlasLoot to have the above items on their respective bosses.
+	
 -----2023/07/10-----
 
 Added spells and abilities to the following npcs:
