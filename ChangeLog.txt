@@ -1,3 +1,36 @@
+-----2023/08/29-----
+
+Added several bonuses for hitting level thresholds.
+
+Hitting level 60, 70, and 80 will grant all your characters on that account 10% extra experience
+	gains until they hit that same level.
+		Dev note: Let me give an example of how this works. Say you just hit level 70 on your
+			main character. You previously had the 10% extra on all your alts up till 60 but
+			now they will have 20% until 60 and from 60-70 they will have 10%. And if you hit
+			level 80 the same thing will happen again. 30% -> 20% -> 10% going to 60, 70, and 80
+			respectively.
+
+Renamed the old Hardcore to Hardmode. Nothing else changed besides the name.
+
+Added a Hardcore mode. Similar to the new Classic WoW version except if you die your character 
+	isn't gone. It just lost its Hardcore status and is ineligble for future rewards.
+
+If you get to certain thresholds (Levels 20, 40, and 60) then you will gain an exp buff.
+	Dev note: These each give 10% extra experience to all of your characters. They do not stop
+		working at a given level unlike the generic level 60, 70, and 80 ones do.
+
+Fixed several items missing from loot tables for the quest Supplies For Sun Rock (30036) and The Spice of Life (30037).
+
+Buffed NPCs in the Den.
+
+Increased exp and money rewarded from the quests The Den (1089) and Horde Presence (3514). They are now elite group quests.
+
+-----2023/07/19-----
+
+Reitemized:
+	Lavishly Jeweled Ring (Heroic) | Now has spell power
+	Smelting Pants (Heroic) | Now has agi and defense rating.
+
 -----2023/07/18-----
 
 Buffed items:
