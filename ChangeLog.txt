@@ -1,3 +1,50 @@
+-----2023/09/14-----
+
+Added new buffs to buy.
+	Warrior:
+	Manual: Enhanced Battle Shout | Requires level 10. Increases the attack power granted by Battle Shout by 10%.
+	Manual: Rejuvenating Victory Rush | Requires level 10. Victory Rush now heals you for 5% of your max health.
+	Manual: Rapid Rend | Requires level 10. Increases the bleed damage done by your Rend ability by 110% but reduces its duration by 6 seconds.
+	Manual: Multi Cleave | Requires level 20. Increases the number of targets your Cleave hits by 1.
+	Manual: Deadly Overpower | Requires level 20. Increases the block value of Shield Block by 40% 
+	Manual: Enhanced Shield Block | Requires level 20. Increases the damage of your Overpower ability by 10%.
+	Manual: Enhanced Death Wish | Requires level 30. Increases the damage bonus of Death Wish by 10%.
+	Manual: Multi Sweeping Strikes | Requires level 30. Increases the amount of melee attacks Sweeping Strikes affects by 2.
+	Manual: Scrupulous Whirlwind | Requires level 40. Reduces the rage cost of Whirlwind by 5.
+	
+Renamed various older buffs to match those above.
+
+Readded Light Feather reagent requirement to the Mage Slow Fall spell.
+
+The Out of Combat requirement for the Warrior Charge spell has been reinstated for ranks above 1. This is default 3.3.5 behavior.
+
+-----2023/08/31-----
+
+Buffed the Chance on Hit ability of Smouldering Claw (12243).
+
+Readded abilities to Ruffian (190067) and Thug (190105). Also increased their exp modifier to 1.3 was 1.1
+
+Added loottables to Ruffian and Thug.
+
+Increased the minimum level of Ruffian and Thug to level 47 was 45.
+
+Fixed a bug with spell Temporal Displacement (90274).
+
+Fixed a bug with the level 70 account exp buff not properly propagating to alts
+
+Reworked the extra exp logic for killing higher level monsters.
+	Dev Note: There is no longer any element of randomness. Previously there used to be a +/- 50 experience
+		but no longer is this the case. There is now a robust exp buff checker that will now give the correct
+		exp bonuses based on the player's buffs. (Need to test heirlooms work properly however.)
+
+Changed one of the teleport locations in the maze.
+
+Fixed some typos in spells.
+
+Added an aura to indicate how much extra exp you're gaining from the account wide exp buffs.
+
+Fixed Maniacal Quickshooter's (90594) proc to now be 10%.
+
 -----2023/08/29-----
 
 Added several bonuses for hitting level thresholds.
