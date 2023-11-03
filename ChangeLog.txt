@@ -1,3 +1,29 @@
+-----2023/11/02-----
+
+Buffed Heroic Cruel Barb | Now has an chance on hit to proc an extra attack.
+
+Buffed Heroic Cape of the Brotherhood | Now has crit and expertise
+
+Reitemized Heroic Blackend Defias Armor | No longer has strength instead has attack power.
+
+Buffed Heroic Corsair's Overshirt | Now has spell power and spell crit.
+
+Buffed Heroic Emberstone Staff | Now has spell power.
+
+Reitemized Thief's Blade | Less agility and less top end damage but now has crit and haste.
+
+New items:
+	Mender's Mark | Healer trinket
+	Goblin Forged Waist Guard | Mail healer waist
+	Cooled Adamantium Chestplate | Plate healer chest
+	Smite's Buckler | Caster shield
+	Smite's Girdle | Plate dps waist
+	Chef's Mitts | Leather caster gloves
+	Gold Laced Sash | Cloth caster waist
+	Dark Scale Bands | Mail caster wrists
+	Captain's Medallion | Str neckless
+	Spiked Scale Spaulders | mail caster shoulders
+
 -----2023/09/14-----
 
 Added new buffs to buy.
