@@ -1,3 +1,47 @@
+-----2024/11/18-----
+
+Added a new Perk skill and spellbook tab. This is where perks will go when learned.
+
+Added a new perk.
+
+Removed the baseline 15% ranged attack speed that hunters get. 
+	Quivers have had their attack speed buff for a while now.
+
+-----2024/03/04-----
+
+Added a quest that drops when killing Agal (2162)
+
+-----2024/02/04-----
+
+Fixed several loot tables.
+
+Changed Nothing But the Truth (1383) to be a group quest. Changed the Green Whelp Blood requirement
+	to Pure Green Dragonkin Blood which drops from an elite.
+	
+Fixed a typo in Scrupulous Whirlwind.
+
+Reduced Horde and Alliance city guard levels to 65.
+
+-----2024/03/31-----
+
+Added some new quest reward(s) to Final Passage (1394) and Nothing But The Truth (1383).
+	Also buffed previous rewards.
+	
+-----2024/01/28-----
+
+Fixed an issue causing Temporal Discombobulation (90274) to not apply.
+
+Vagash (1388) is now an elite and has an extra ability.
+
+Bjard (1130) is now considered a Rare Elite not just a Rare and its Experience Modifier is now 3.
+	Gained a new ability.
+	
+Black Bear Hide Vest (2069) renamed to White Bear Hide Vest, has a new model, is now uncommon
+	and requires level 8 to equip. Now has +1 stamina, +2 agility, 65 armor, 
+	and 5 frost resistance.
+	
+Added new 'Frostmane' items and buffed old ones. Along side a new set bonus when you have 2.
+
 -----2023/11/02-----
 
 Buffed Heroic Cruel Barb | Now has an chance on hit to proc an extra attack.
