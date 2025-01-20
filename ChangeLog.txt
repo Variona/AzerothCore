@@ -1,3 +1,25 @@
+-----2024/12/18-----
+
+Buffed Linken's Boomerang (11905)| Now deals 541 - 615 damage was 113 - 187. Has a 90 second cooldown was 3 minutes.
+
+Buffed Linken's Sword of Mastery (11902) | Now has a 2.8 speed while dealing 40.89 dps. Was 1.8 while dealing 33.33 dps.
+	Its proc now deals 174 to 194 was 45 - 75.
+
+Buffed Spirit of Aquementas (11904) | Now has 30 spell power was 20. Now has +9 spirit was 0.
+
+All three above items are now Rare quality.
+
+-----2024/11/19-----
+
+Changed the Holy Lawbringer 3 and 8 set bonuses.
+	3 set now increases the healing and damage done by Holy Shock by 6%.
+	8 set now has a chance to heal the party when the paladin heals instead of on a melee.
+
+Lawbringer no long has any Shadow resistance. Converted to Fire resistance.
+
+Manual Crowd Pummler now has a 2 minute cooldown. Was 1 hour.
+
+
 -----2024/11/18-----
 
 Added a new Perk skill and spellbook tab. This is where perks will go when learned.
