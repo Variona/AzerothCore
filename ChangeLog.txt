@@ -1,3 +1,28 @@
+-----2024/1/30-----
+
+Finished the quests in Tyr's Hand.
+
+Added custom item rewards for the last quest in the chain.
+
+Removed Blasted Land portals from various capital cities.
+
+Fixed an issue where the experience buff gained from reaching certain level thresholds was being
+	given out erroneously.
+
+-----2024/1/26-----
+
+Added new quests and associated items, objects, and npcs. Deals with Tyr's Hand.
+
+Buffed the npcs residing within Tyr's hand.
+
+-----2024/1/25-----
+
+Fixed the bonus experience gained from killing higher level monsters
+	Now properly accounts for each individual player's exp buffs in a group.
+	Not just the buffs of the player who got the last hit.
+
+Increased the extra experience gained from killing higher level elite monsters from 2 to 3.
+
 -----2024/12/18-----
 
 Buffed Linken's Boomerang (11905)| Now deals 541 - 615 damage was 113 - 187. Has a 90 second cooldown was 3 minutes.
